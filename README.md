@@ -1,25 +1,26 @@
 Hi, I'm Azim Sadath
 
-Aspiring Data Scientist focused on financial analytics, machine learning, and AI-driven risk modeling.
+Aspiring Data Scientist focused on **financial analytics, machine learning, and AI-driven risk modeling.**
 
-I build data science projects that combine machine learning, financial datasets, and real-world applications.
+I build data science projects that combine **machine learning, financial datasets, and real-world applications.**
 
-Featured Projects
+---
+# Featured Projects
 
-1. Loan Default Risk Prediction Engine
+## 1. Loan Default Risk Prediction Engine
 
-Machine learning system that predicts loan default probability using credit data.
+Machine learning system that predicts **loan default probability using credit data.**
 
-Tech:
-Python, Scikit-learn, XGBoost, SHAP, Streamlit
+**Tech:**
+**Python, Scikit-learn, XGBoost, SHAP, Streamlit**
 
 Repository
 [Loan Prediction Engine](https://github.com/Azim521/Loan-Default-Risk-Engine)
 
+---
+## 2. AI Corporate Bankruptcy Risk Analyzer
 
-2. AI Corporate Bankruptcy Risk Analyzer
-
-AI system that predicts corporate bankruptcy risk using financial ratios.
+AI system that predicts **corporate bankruptcy risk using financial ratios.**
 
 Tech:
 Python, XGBoost, SHAP, Streamlit
@@ -27,10 +28,10 @@ Python, XGBoost, SHAP, Streamlit
 Repository
 [Bankruptcy Risk Analyzer](https://github.com/Azim521/AI-Bankruptcy-Risk-Analyzer)
 
+---
+## 3. Retail Sales Forecasting (Walmart Dataset)
 
-3. Retail Sales Forecasting (Walmart Dataset)
-
-Time-series forecasting model predicting weekly retail sales.
+Time-series forecasting model predicting **weekly retail sales.**
 
 Tech:
 Python, Pandas, XGBoost
@@ -38,31 +39,32 @@ Python, Pandas, XGBoost
 Repository
 [Walmart Sales Forecasting](https://github.com/Azim521/Walmart-Sales-Forecasting)
 
-Skills
+---
+## Skills
 
-Machine Learning
-Financial Risk Modeling
-Time Series Forecasting
-Feature Engineering
-Explainable AI
-Data Analysis
-Streamlit Deployment
+- Machine Learning
+- Financial Risk Modeling
+- Time Series Forecasting
+- Feature Engineering
+- Explainable AI
+- Data Analysis
+- Streamlit Deployment
 
-Tools & Technologies
+---
+## Tools & Technologies
 
-Python
-Pandas
-NumPy
-Scikit-learn
-XGBoost
-SHAP
-Streamlit
-Git
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- SHAP
+- Streamlit
+- Git
 
-Currently Learning
+---
+## Currently Learning
 
-Advanced Machine Learning
-
-Data Engineering
-
-Financial Data Science
+- Advanced Machine Learning
+- Data Engineering
+- Financial Data Science
