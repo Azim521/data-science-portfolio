@@ -1,110 +1,51 @@
-Azim Sadath — Data Science Portfolio
+Hi, I'm Azim Sadath
 
-Collection of end-to-end data science projects focused on financial risk modeling, time-series forecasting, and machine learning systems.
+Aspiring Data Scientist focused on financial analytics, machine learning, and AI-driven risk modeling.
 
-Featured Projects:
+I build data science projects that combine machine learning, financial datasets, and real-world applications.
 
-1️⃣ Loan Default Risk Prediction Engine
+Featured Projects
 
-Machine learning system that predicts the probability of loan default using financial and credit history data.
+1. Loan Default Risk Prediction Engine
 
-Key Features
+Machine learning system that predicts loan default probability using credit data.
 
-Feature engineering for credit risk variables
-
-Logistic Regression vs Random Forest vs XGBoost comparison
-
-Handling class imbalance
-
-SHAP explainability
-
-Risk scoring system
-
-Interactive Streamlit application
-
-Tech Stack
-
-Python
-Pandas
-Scikit-learn
-XGBoost
-SHAP
-Streamlit
+Tech:
+Python, Scikit-learn, XGBoost, SHAP, Streamlit
 
 Repository
+[Loan Prediction Engine](https://github.com/Azim521/Loan-Default-Risk-Engine)
 
-[Loan Default Risk Prediction Engine](https://github.com/Azim521/Loan-Default-Risk-Engine)
 
+2. AI Corporate Bankruptcy Risk Analyzer
 
-2️⃣ Retail Sales Forecasting (Walmart Dataset)
+AI system that predicts corporate bankruptcy risk using financial ratios.
 
-Machine learning model for forecasting retail store sales using historical Walmart sales data.
-
-Key Features
-
-Time-series feature engineering
-
-Lag features and rolling averages
-
-XGBoost forecasting model
-
-Weekly sales prediction
-
-Feature importance analysis
-
-Tech Stack
-
-Python
-Pandas
-NumPy
-XGBoost
-Matplotlib
+Tech:
+Python, XGBoost, SHAP, Streamlit
 
 Repository
+[Bankruptcy Risk Analyzer](https://github.com/Azim521/AI-Bankruptcy-Risk-Analyzer)
 
-[Retail Sales Forecasting](https://github.com/Azim521/Walmart-Sales-Forecasting)
 
+3. Retail Sales Forecasting (Walmart Dataset)
 
-3️⃣ AI Corporate Bankruptcy Risk Analyzer
+Time-series forecasting model predicting weekly retail sales.
 
-Machine learning system that predicts corporate bankruptcy risk using financial ratios.
-
-Key Features
-
-Financial distress prediction
-
-Logistic Regression / Random Forest / XGBoost comparison
-
-Handling imbalanced financial datasets
-
-Multi-year bankruptcy forecasting validation
-
-Financial risk dashboard (Streamlit deployment)
-
-Tech Stack
-
-Python
-Pandas
-Scikit-learn
-XGBoost
-SHAP
-Streamlit
+Tech:
+Python, Pandas, XGBoost
 
 Repository
+[Walmart Sales Forecasting](https://github.com/Azim521/Walmart-Sales-Forecasting)
 
-[AI Risk Analyzer](https://github.com/Azim521/AI-Bankruptcy-Risk-Analyzer)
-
-
-
-Skills Demonstrated
+Skills
 
 Machine Learning
-Feature Engineering
 Financial Risk Modeling
-Time-Series Forecasting
-Model Evaluation
-Explainable AI (SHAP)
-Data Visualization
+Time Series Forecasting
+Feature Engineering
+Explainable AI
+Data Analysis
 Streamlit Deployment
 
 Tools & Technologies
@@ -116,14 +57,12 @@ Scikit-learn
 XGBoost
 SHAP
 Streamlit
-GitHub
+Git
 
-Portfolio Focus
+Currently Learning
 
-These projects demonstrate the application of machine learning to:
+Advanced Machine Learning
 
-Financial risk analysis
+Data Engineering
 
-Business forecasting
-
-Real-world AI systems
+Financial Data Science
